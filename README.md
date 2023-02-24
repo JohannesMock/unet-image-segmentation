@@ -1,4 +1,4 @@
-# itw_lama_group8
+# UNET Image Segmentation
 
 ## Image Segmentation of Vehicle Driving Situations
 
